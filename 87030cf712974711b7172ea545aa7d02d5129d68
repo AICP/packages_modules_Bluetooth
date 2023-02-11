@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "100027b7_6a893ad1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2023-02-11T12:46:02Z",
+      "side": 1,
+      "message": "Merged on Los. Will be merged after r30 merge.",
+      "revId": "87030cf712974711b7172ea545aa7d02d5129d68",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}

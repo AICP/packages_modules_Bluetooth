@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "68826a8d_1c01deaa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2023-02-13T19:05:53Z",
+      "side": 1,
+      "message": "not needed after https://github.com/AICP/packages_modules_Bluetooth/commit/61146330d5e6d7a0d3ed7920a54dcc9c1d5c60ea it seems. Above commit merged with r30.",
+      "revId": "e1dbe06e6139d819719dd847a488e9d85643a972",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}

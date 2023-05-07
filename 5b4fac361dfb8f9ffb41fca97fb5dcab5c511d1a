@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "617b1e9e_cee8e524",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1980
+      },
+      "writtenOn": "2023-05-07T11:21:04Z",
+      "side": 1,
+      "message": "crash fixed.\nTested and working just fine on msm8996.",
+      "revId": "5b4fac361dfb8f9ffb41fca97fb5dcab5c511d1a",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
